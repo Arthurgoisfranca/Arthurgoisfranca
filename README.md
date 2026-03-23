@@ -43,7 +43,7 @@
         <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
         <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows 11"></a>
         
-      </p>
+   </p>
       
    <h2>🎲 Além do Código</h2>
       <p>Quando não estou programando, estou explorando outros mundos:</p>
