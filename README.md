@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou o Arthur 👋
 
-<!--
-**Arthurgoisfranca/Arthurgoisfranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Back-end em Formação
+Atualmente focado em dominar o ecossistema **Node.js** e construindo aplicações robustas com **NestJS**. Sou apaixonado por arquitetura de software e automação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ No que estou trabalhando:
+- 📖 Aprofundando estudos em **NestJS** e escalabilidade de APIs.
+- 🤖 Desenvolvendo um assistente de Code Review automatizado com IA.
+- 🏗️ Praticando padrões de projeto e Clean Architecture.
+
+### 💻 Stack Técnica:
+- **Linguagens:** JavaScript, TypeScript.
+- **Frameworks:** NestJS, Node.js, Express.
+- **Ferramentas:** Git, GitHub, Docker, Windows 11.
+
+### 🎮 Além do código:
+Quando não estou programando, provavelmente estou explorando mundos em **TTRPGs** (D&D 5.5e, Ordem Paranormal), jogando algum dos +800 jogos da minha biblioteca Steam ou analisando o meta de **Honkai: Star Rail**.
+
+---
+
+### 📊 Estatísticas do GitHub:
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [link-para-seu-perfil]
+- **Discord:** [seu-usuario-discord]
