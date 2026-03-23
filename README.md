@@ -92,7 +92,7 @@
     <img src="https://img.icons8.com/neon/2x/github.png" alt="GitHub Animado" width="50" height="50"/>
   </a>
   <a href="https://steamcommunity.com/id/arthur-gois/">
-    <img src="https://img.icons8.com/neon/2x/steam.png" alt="Steam Animado" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </p>
 
