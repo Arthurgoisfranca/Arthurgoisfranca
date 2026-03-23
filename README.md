@@ -7,7 +7,7 @@
 </h1>
 
   <p align="center">
-  <img src="Chill.gif" alt="Arthur - Backend Developer Scene" width="80%"/>
+  <img src="Chill.gif" alt="Arthur - Backend Developer Scene" width="100%"/>
 </p>
 
 <table align="center" style="width:100%; text-align: left;">
@@ -19,7 +19,7 @@
  <h2>🛠️ No que estou trabalhando:</h2>
       <ul>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Aprofundando estudos em <b>NestJS</b> e escalabilidade de APIs.</li>
-        <li><img src="https://img.icons8.com/neon/2x/artificial-intelligence.png" height="20"> Desenvolvendo um assistente de Code Review automatizado com IA.</li>
+        <li>🤖 Desenvolvendo um assistente de Code Review automatizado com IA.</li>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="20"> Praticando padrões de projeto e Clean Architecture.</li>
       </ul>
       
