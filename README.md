@@ -17,18 +17,18 @@
       <h2>🧠 Sobre Mim</h2>
       <p>Desenvolvedor Back-end em formação, focado no ecossistema <b>Node.js</b> e construindo aplicações robustas com o framework <b>NestJS</b>. Apaixonado por arquitetura de software, Clean Architecture e automação.</p>
       
-      <h2>🛠️ No que estou trabalhando:</h2>
+ <h2>🛠️ No que estou trabalhando:</h2>
       <ul>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Aprofundando estudos em <b>NestJS</b> e escalabilidade de APIs.</li>
         <li><img src="https://img.icons8.com/neon/2x/artificial-intelligence.png" height="20"> Desenvolvendo um assistente de Code Review automatizado com IA.</li>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="20"> Praticando padrões de projeto e Clean Architecture.</li>
       </ul>
       
-      <h2>🎯 Objetivos Atuais:</h2>
+ <h2>🎯 Objetivos Atuais:</h2>
       <p>Integrar soluções de nuvem (AWS/Azure) e dominar CI/CD complexos.</p>
     </td>
     
-    <td width="45%" style="vertical-align: top;">
+   <td width="45%" style="vertical-align: top;">
       <h2>💻 Stack Técnica</h2>
       <p align="left">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"></a>
@@ -41,7 +41,7 @@
         <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows 11"></a>
       </p>
       
-      <h2>🎲 Além do Código</h2>
+   <h2>🎲 Além do Código</h2>
       <p>Quando não estou programando, estou explorando outros mundos:</p>
       <ul>
         <li><b>TTRPGs:</b> D&D 5.5e, Ordem Paranormal. Mestre e Jogador.</li>
