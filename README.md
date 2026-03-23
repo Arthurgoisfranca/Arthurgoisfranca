@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1D7EDD&width=600&lines=OLÁ,+EU+SOU+O+ARTHUR!;Desenvolvedor+Back-end+Node.js/NestJS;Focando+em+Escalabilidade+e+Arquitetura;Amante+de+TTRPGs+e+Honkai:+Star+Rail" alt="Typing SVG" />
+  <img src="https://br.pinterest.com/pin/875176140073894834/" />
 </h1>
 
 <p align="center">
