@@ -13,44 +13,37 @@
 <table align="center" style="width:100%; text-align: left;">
   <tr>
     <td width="55%" style="vertical-align: top;">
-      <h2>🧠 Sobre Mim</h2>
-      <p>Desenvolvedor Back-end em formação, focado no ecossistema <b>Node.js</b> e construindo aplicações robustas com o framework <b>NestJS</b>. Apaixonado por criação de jogos, praticando em Motores Gráficos.</p>
-      
- <h2>🛠️ No que estou trabalhando:</h2>
+      <h2>👨‍💻 Sobre Mim</h2>
+          <p> Sou um desenvolvedor <b>Back-end em formação</b>, com foco em <b>Java</b>. Atualmente, divido meu tempo entre o trabalho, a faculdade e o estudo de <b>motores gráficos</b> e <b> Inteligência Artificial</b>. </p>
       <ul>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Aprofundando estudos em <b>NestJS</b> e escalabilidade de APIs.</li>
-        <li>🤖 Desenvolvendo um assistente de Code Review automatizado com IA.</li>
-        <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" height="20"> Praticando padrões de projeto e Clean Architecture.</li>
+        <li>🤖 Atualmente construindo um <b>Assistente de Code Review com IA</b>.</li>
+        <li>🎮 Apaixonado por <b>Game Design</b> e desenvolvimento em <b>Unity/Unreal Engine</b>.</li>
       </ul>
       
- <h2>🎯 Objetivos Atuais:</h2>
-      <p>Melhorar minhas práticas com motores gráficos e estudo sobre Level e Game Designs e Linguagens como TypeScript.</p>
+ <h2>🛠️ Tech Inventory (Skills)</h2>
+
+### 🌐 Back-end & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,py&theme=dark" />
+</p>
+
+### 🎮 Game Development & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,godot,gamemakerstudio,unreal,prisma,git&theme=dark" />
+</p>
     </td>
     
    <td width="45%" style="vertical-align: top;">
-      <h2>💻 Stack Técnica</h2>
-      <p align="left">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS"></a>
-        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TS"></a>
-        <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nest"></a>
-        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node"></a>
-        <a href="https://java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"></a>
-        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></a>
-        <a href="https://unity.com/pt"><img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity"> </a>
-        <a href="https://gamemaker.io/en"><img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker"> </a>
-        <a href="https://godotengine.org/pt-br/"><img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"> </a>
-        <a href="https://www.unrealengine.com/pt-BR"><img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" alt="Unreal Engine"> </a>
-        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
-        <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows 11"></a>
-        
-   </p>
+      <h2>🎯 Objetivos Atuais:</h2>
+      <p>Melhorar minhas práticas com motores gráficos e estudo sobre Level e Game Designs e como minha maior meta: <b>Poder aprender uma linguagem por período durante a minha faculdade.</b></p>
       
    <h2>🎲 Além do Código</h2>
       <p>Quando não estou programando, estou explorando outros mundos:</p>
       <ul>
-        <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthullu, Mothership.  Jogador.</li>
+        <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthulhu, Mothership. <b>Jogador</b>.</li>
         <li><b>Gaming:</b> <a href=https://steamcommunity.com/profiles/76561198276721315/>+250 jogos na biblioteca Steam</a>.</li>
-        <li><b>:</b> Analisando o meta de <a href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki">Honkai: Star Rail</a>.</li>
+        <li><b>Books:</b> <a>Lendo Livros de Investigação ou algo mais sobrenatural</a>.</li>
       </ul>
     </td>
   </tr>
@@ -65,36 +58,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/pacman-contribution-graph.svg">
-</picture>
-
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurgoisfranca&theme=dracula&area=true&hide_border=true&point=true" alt="Arthur's Activity Graph" />
+</p>
 ###
 
 <h2 align="center">📬 Vamos Conectar?</h2>
