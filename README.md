@@ -7,7 +7,7 @@
 </h1>
 
   <p align="center">
-  <img src="Chill.gif" alt="Arthur - Backend Developer Scene" width="100%"/>
+  <img src="Chill.gif" alt="Arthur - Backend Developer Scene" width="80%"/>
 </p>
 
 <table align="center" style="width:100%; text-align: left;">
