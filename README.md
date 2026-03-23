@@ -35,9 +35,14 @@
         <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" alt="Nest"></a>
         <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node"></a>
         <a href="https://java.com/"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java"></a>
-        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
+        <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"></a>
+        <a href="https://unity.com/pt"><img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity"> </a>
+        <a href="https://gamemaker.io/en"><img src="https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff" alt="GameMaker"> </a>
+        <a href="https://godotengine.org/pt-br/"><img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot"> </a>
+        <a href="https://www.unrealengine.com/pt-BR"><img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white" alt="Unreal Engine"> </a>
         <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
         <a href="https://www.microsoft.com/en-us/windows/windows-11"><img src="https://img.shields.io/badge/Windows_11-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows 11"></a>
+        
       </p>
       
    <h2>🎲 Além do Código</h2>
