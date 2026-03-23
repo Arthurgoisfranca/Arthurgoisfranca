@@ -24,7 +24,7 @@
       </ul>
       
  <h2>🎯 Objetivos Atuais:</h2>
-      <p>Integrar soluções de nuvem (AWS/Azure) e dominar CI/CD complexos.</p>
+      <p>Melhorar minhas práticas com motores gráficos e estudo sobre Level e Game Designs e Linguagens como TypeScript.</p>
     </td>
     
    <td width="45%" style="vertical-align: top;">
