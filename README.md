@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/ArthurGois/ArthurGois/main/arthur-pixelart-dynamic.gif" alt="Arthur - Backend Developer Pixel Art Scene" width="100%"/>
 </p>
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1D7EDD&width=600&lines=OLÁ,+EU+SOU+ARTHUR!;Desenvolvedor+Back-end+Node.js/NestJS+e+Java;Focando+em+Desenvolvimentos+com+I.A;Amante+de+TTRPGs+e+Jogos" alt="Typing SVG" />
 </h1>
@@ -87,5 +86,5 @@
 </blockquote>
 
  <p align="center">
-  <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width="80%"/>
+  <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width="50%"/>
 </p>
