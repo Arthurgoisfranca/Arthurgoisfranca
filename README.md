@@ -16,9 +16,9 @@
       <h2>👨‍💻 About me</h2>
           <p> I am a <b>Back-end</b> developer in training, focusing on <b>Java</b>. Currently, I divide my time between work, college, and studying <b>graphics engines</b> and <b>Artificial Intelligence</b>.</p>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Aprofundando estudos em <b>NestJS</b> e escalabilidade de APIs.</li>
-        <li>🤖 Atualmente construindo um <b>Assistente de Code Review com IA</b>.</li>
-        <li>🎮 Apaixonado por <b>Game Design</b> e desenvolvimento em <b>Unity/Unreal Engine</b>.</li>
+        <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Deepening studies in <b>NestJS</b> and API scalability.</li>
+        <li>🤖 Currently building an <b>AI-powered Code Review Assistant.</b></li>
+        <li>🎮 Passionate about <b>Game Design</b> and development in <b>Unity/Unreal Engine</b>.</li>
       </ul>
       
  <h2>🛠️ Tech Inventory (Skills)</h2>
@@ -35,52 +35,44 @@
     </td>
     
    <td width="45%" style="vertical-align: top;">
-      <h2>🎯 Objetivos Atuais:</h2>
-      <p>Melhorar minhas práticas com motores gráficos e estudo sobre Level e Game Designs e como minha maior meta: <b>Poder aprender uma linguagem por período durante a minha faculdade.</b></p>
+      <h2>🎯 Current Objectives:</h2>
+      <p>To improve my skills with game engines and study Level and Game Design, and as my biggest goal:<b>To be able to learn one programming language per semester during my college studies</b>.</b></p>
       
-   <h2>🎲 Além do Código</h2>
-      <p>Quando não estou programando, estou explorando outros mundos:</p>
+   <h2>🎲Beyond The Code</h2>
+      <p>When I'm not programming, I'm exploring other worlds:</p>
       <ul>
-        <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthulhu, Mothership. <b>Jogador</b>.</li>
-        <li><b>Gaming:</b> <a href=https://steamcommunity.com/profiles/76561198276721315/>+250 jogos na biblioteca Steam</a>.</li>
-        <li><b>Books:</b> <a>Lendo Livros de Investigação ou algo mais sobrenatural</a>.</li>
+        <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthulhu, Mothership. <b>Player</b>.</li>
+        <li><b>Gaming:</b> <a href=https://steamcommunity.com/profiles/76561198276721315/>+250 games in my Steam library.</a></li>
+        <li><b>Books:</b> <a>Reading mystery books or something more supernatural.</a>.</li>
       </ul>
     </td>
   </tr>
 </table>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arthurgoisfranca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthurgoisfranca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurgoisfranca&theme=dracula&area=true&hide_border=true&point=true" alt="Arthur's Activity Graph" />
 </p>
-###
 
 <h2 align="center">📬 Vamos Conectar?</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/">
-    <img src="https://img.icons8.com/neon/2x/linkedin.png" alt="LinkedIn Animado" width="50" height="50"/>
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.icons8.com/neon/2x/gmail.png" alt="Gmail Animado" width="50" height="50"/>
-  </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
-    <img src="https://img.icons8.com/neon/2x/github.png" alt="GitHub Animado" width="50" height="50"/>
-  </a>
-  <a href="https://steamcommunity.com/id/arthur-gois/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
+  </a>
+  <a href="https://steamcommunity.com/id/arthur-gois/">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
+  </a>
+  <a href="mailto:guthergamer@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
   </a>
 </p>
 
