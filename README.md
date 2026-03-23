@@ -43,9 +43,9 @@
    <h2>🎲 Além do Código</h2>
       <p>Quando não estou programando, estou explorando outros mundos:</p>
       <ul>
-        <li><b>TTRPGs:</b> D&D 5.5e, Ordem Paranormal. Mestre e Jogador.</li>
-        <li><b>Gaming:</b> <a href="https://steamcommunity.com/id/arthur-gois/">+800 jogos na biblioteca Steam</a>.</li>
-        <li><b>HSR:</b> Analisando o meta de <a href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki">Honkai: Star Rail</a>.</li>
+        <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthullu, Mothership.  Jogador.</li>
+        <li><b>Gaming:</b> <a href=(https://steamcommunity.com/profiles/76561198276721315/)>+800 jogos na biblioteca Steam</a>.</li>
+        <li><b>:</b> Analisando o meta de <a href="https://honkai-star-rail.fandom.com/wiki/Honkai:_Star_Rail_Wiki">Honkai: Star Rail</a>.</li>
       </ul>
     </td>
   </tr>
