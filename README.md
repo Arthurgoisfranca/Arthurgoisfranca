@@ -14,7 +14,7 @@
   <tr>
     <td width="55%" style="vertical-align: top;">
       <h2>🧠 Sobre Mim</h2>
-      <p>Desenvolvedor Back-end em formação, focado no ecossistema <b>Node.js</b> e construindo aplicações robustas com o framework <b>NestJS</b>. Apaixonado por arquitetura de software, Clean Architecture e automação.</p>
+      <p>Desenvolvedor Back-end em formação, focado no ecossistema <b>Node.js</b> e construindo aplicações robustas com o framework <b>NestJS</b>. Apaixonado por criação de jogos, praticando em Motores Gráficos.</p>
       
  <h2>🛠️ No que estou trabalhando:</h2>
       <ul>
