@@ -87,5 +87,5 @@
 </blockquote>
 
  <p align="center">
-  <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width="100%"/>
+  <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width="80%"/>
 </p>
