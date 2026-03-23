@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1D7EDD&width=600&lines=OLÁ,+EU+SOU+ARTHUR!;Desenvolvedor+Back-end+Node.js/NestJS+e+Java;Focando+em+Desenvolvimentos+com+I.A;Amante+de+TTRPGs+e+Jogos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1D7EDD&width=600&lines=Hi,+I+am+Arthur!;Back-end+Node.js/NestJS+and+Java+Developer;Focusing+on+AI-powered+Development;Lover+of+TTRPGs+and+Games" alt="Typing SVG" />
 </h1>
 
   <p align="center">
@@ -13,8 +13,8 @@
 <table align="center" style="width:100%; text-align: left;">
   <tr>
     <td width="55%" style="vertical-align: top;">
-      <h2>👨‍💻 Sobre Mim</h2>
-          <p> Sou um desenvolvedor <b>Back-end em formação</b>, com foco em <b>Java</b>. Atualmente, divido meu tempo entre o trabalho, a faculdade e o estudo de <b>motores gráficos</b> e <b> Inteligência Artificial</b>. </p>
+      <h2>👨‍💻 About me</h2>
+          <p> I am a <b>Back-end</b> developer in training, focusing on <b>Java</b>. Currently, I divide my time between work, college, and studying <b>graphics engines</b> and <b>Artificial Intelligence</b>.</p>
       <ul>
         <li><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Light.svg" height="20"> Aprofundando estudos em <b>NestJS</b> e escalabilidade de APIs.</li>
         <li>🤖 Atualmente construindo um <b>Assistente de Code Review com IA</b>.</li>
