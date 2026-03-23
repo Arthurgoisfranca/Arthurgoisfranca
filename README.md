@@ -94,6 +94,9 @@
   <a href="https://steamcommunity.com/id/arthur-gois/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </p>
 
 <h3 align="center">💬 Citação Randômica de Desenvolvimento</h3>
