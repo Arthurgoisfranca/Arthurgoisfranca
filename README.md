@@ -6,7 +6,7 @@
   <img src="https://br.pinterest.com/pin/875176140073894834/" />
 </h1>
 
-<h1 align="right">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1D7EDD&width=600&lines=OLÁ,+EU+SOU+ARTHUR!;Desenvolvedor+Back-end+Node.js/NestJS+e+Java;Focando+em+Desenvolvimentos+com+I.A;Amante+de+TTRPGs+e+Jogos" alt="Typing SVG" />
 </h1>
 
