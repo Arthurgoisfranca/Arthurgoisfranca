@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<h3 align="center">💬 Citação Randômica de Desenvolvimento</h3>
+<h3 align="center">💬 Citação</h3>
 <blockquote align="center">
   <p><img src="https://readme-quotes.vercel.app/api?theme=nord" alt="Random Dev Quote" /></p>
 </blockquote>
