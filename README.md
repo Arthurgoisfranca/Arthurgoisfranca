@@ -62,7 +62,7 @@
 
 <h2 align="center">📬 Vamos Conectar?</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/Arthur_de_Góis_França/">
+  <a href="https://www.linkedin.com/in/Arthur de Góis França/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
   <a href="">
