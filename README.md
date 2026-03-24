@@ -68,7 +68,7 @@
   <a href="https://www.instagram.com/arthur_de_gois_franca/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
   </a>
-  <a href="https://steamcommunity.com/id/arthur-gois/">
+  <a href="https://discord.com/users/555887322042728448">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark"/>
   </a>
   <a href="mailto:guthergamer@gmail.com">
