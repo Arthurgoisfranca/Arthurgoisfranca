@@ -65,7 +65,7 @@
   <a href="https://www.linkedin.com/in/arthur-de-g%C3%B3is-fran%C3%A7a-48536b301/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
   </a>
-  <a href="">
+  <a href="https://www.instagram.com/arthur_de_gois_franca/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark"/>
   </a>
   <a href="https://steamcommunity.com/id/arthur-gois/">
