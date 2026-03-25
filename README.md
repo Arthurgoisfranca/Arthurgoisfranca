@@ -78,7 +78,7 @@
 
 <h3 align="center">💬 Quote</h3>
 <blockquote align="center">
-  <p><img src="https://readme-quotes.vercel.app/api?theme=nord" alt="Random Dev Quote" /></p>
+  <p><img src="https://readme-quotes.vercel.app/api?theme=nord" alt="Random Dev Quote"/></p>
 </blockquote>
 
  <p align="center">
