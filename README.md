@@ -60,7 +60,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurfoisfranca&theme=radical" width="89%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurgoisfranca&theme=radical" width="89%" />
 </div>
 
 <br>
