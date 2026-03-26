@@ -87,5 +87,3 @@
  <p align="center">
   <img src="gifs/Coffee.gif" alt="Arthur - Backend Developer Scene" width=70%"/>
 </p>
-
-![Snake animation](https://github.com/Arthurgoisfranca/Arthurgoisfranca/blob/output/github-contribution-grid-snake.svg)
