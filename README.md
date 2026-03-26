@@ -77,10 +77,17 @@
 </p>
 
 <h3 align="center">💬 Quote</h3>
-<blockquote align="center">
-  <p><img src="https://readme-quotes.vercel.app/api?theme=nord" alt="Random Dev Quote"/></p>
-</blockquote>
+<div align="center">
+  <br />
+  <p><i>"Primeiro, resolva o problema. Depois, escreva o código."</i></p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <br />
+</div>
 
  <p align="center">
   <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width=70%"/>
 </p>
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</div>
