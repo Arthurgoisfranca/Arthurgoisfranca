@@ -88,6 +88,4 @@
   <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width=70%"/>
 </p>
 
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</div>
+![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
