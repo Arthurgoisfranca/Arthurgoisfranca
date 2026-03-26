@@ -7,7 +7,7 @@
 </h1>
 
   <p align="center">
-  <img src="Chill.gif" alt="Arthur - Backend Developer Scene" width="100%"/>
+  <img src="gifs/Chill.gif" alt="Arthur - Backend Developer Scene" width="100%"/>
 </p>
 
 <table align="center" style="width:100%; text-align: left;">
@@ -85,7 +85,7 @@
 </div>
 
  <p align="center">
-  <img src="Coffee.gif" alt="Arthur - Backend Developer Scene" width=70%"/>
+  <img src="gifs/Coffee.gif" alt="Arthur - Backend Developer Scene" width=70%"/>
 </p>
 
 ![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
