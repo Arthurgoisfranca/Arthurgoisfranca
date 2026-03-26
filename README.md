@@ -49,11 +49,21 @@
   </tr>
 </table>
 
+<br>
+
+
+<h2 align="center">📊 Minhas Estatísticas</h2>
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Arthurgoisfranca&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthurgoisfranca&layout=compact&langs_count=7&theme=dracula&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=radical&locale=pt-br" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgoisfranca&layout=compact&theme=radical&locale=pt-br" width="40%" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurfoisfranca&theme=radical" width="89%" />
+</div>
+
+<br>
 <br clear="both">
 
 <p align="center">
