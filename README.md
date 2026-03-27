@@ -42,7 +42,7 @@
       <p>When I'm not programming, I'm exploring other worlds:</p>
       <ul>
         <li><b>TTRPGs:</b> D&D 5.5e, Daggerheart, Call of Cthulhu, Mothership. <b>Player</b>.</li>
-        <li><b>Gaming:</b> <a href=https://steamcommunity.com/profiles/76561198276721315/>+250 games in my Steam library.</a></li>
+        <li><b>Gaming:</b> <a href=https://steamcommunity.com/profiles/76561198276721315/>+300 games in my Steam library.</a></li>
         <li><b>Books:</b> <a>Reading mystery books or something more supernatural.</a>.</li>
       </ul>
     </td>
