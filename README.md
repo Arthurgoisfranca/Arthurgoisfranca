@@ -51,7 +51,7 @@
 
 <br>
 
-<h2 align="center">📊 Minhas Estatísticas</h2>
+<h2 align="center">📊 My Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&v=404" width="48%" />
@@ -63,7 +63,6 @@
 </div>
 
 <br>
-<br clear="both">
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurgoisfranca&theme=dracula&area=true&hide_border=true&point=true" alt="Arthur's Activity Graph" />
