@@ -55,8 +55,9 @@
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=radical&locale=pt-br" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgoisfranca&layout=compact&theme=radical&locale=pt-br" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=radical&rank_icon=github" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurgoisfranca&layout=compact&theme=radical" width="40%" />
 </div>
 
 <div align="center">
