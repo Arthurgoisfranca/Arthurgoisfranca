@@ -54,13 +54,13 @@
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" alt="Status de Arthurgoisfranca" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Arthurgoisfranca&layout=compact&theme=radical" width="40%" alt="Linguagens de Arthurgoisfranca" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthurgoisfranca&theme=radical" width="48%" alt="Status" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Arthurgoisfranca&theme=radical" width="45%" alt="Linguagens" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurgoisfranca&theme=radical" width="89%" alt="Streak de Arthurgoisfranca" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurgoisfranca&theme=radical" width="89%" alt="Streak" />
 </div>
 
 <br>
