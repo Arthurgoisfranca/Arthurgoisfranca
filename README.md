@@ -54,13 +54,12 @@
 <h2 align="center">📊 Minhas Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arthurgoisfranca&theme=radical" width="48%" alt="Status" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arthurgoisfranca&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&v=404" width="48%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Arthurgoisfranca&theme=radical" width="45%" alt="Linguagens" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arthurgoisfranca&layout=compact&theme=tokyonight&v=404" width="40%" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurgoisfranca&theme=radical" width="89%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arthurgoisfranca&theme=tokyonight" width="89%" alt="Streak" />
 </div>
 
 <br>
